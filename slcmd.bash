@@ -1,3 +1,2 @@
-
 ＃!/bin/bash
 sl -a
