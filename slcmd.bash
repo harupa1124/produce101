@@ -1,1 +1,3 @@
-# produce101
+
+＃!/bin/bash
+sl -a
